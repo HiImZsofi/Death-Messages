@@ -1,0 +1,5 @@
+name: DeathMessages
+version: 1.0
+main: me.zsofi.deathmessages.Main
+description: Game shows message when it dies, showing who killed it
+author: Zsofi
